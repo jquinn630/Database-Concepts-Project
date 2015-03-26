@@ -1,0 +1,80 @@
+
+#linksMenu
+{
+background: #6F95AA;
+position:absolute;
+box-shadow: 0.1em 0.1em 0.2em gray;
+text-shadow: 0.1em 0.1em 0.2em gray;
+left:10px;
+top:80px;
+width: 80px;
+height:150px;
+padding:20px 50px 10px 20px;
+border-radius:5px;
+}
+#topBar
+{
+background: #6D6F6F; 
+color: #FCFFF5;
+top:0px;
+height:75px;
+width:100%;
+right:0px;
+font-size:160%;
+font-family:"Arial";
+text-shadow: 0.1em 0.1em 0.2em black;
+text-indent: 40px;
+position:absolute;
+}
+#mainBody
+{
+position:absolute;
+background:#D1DBBD;
+top:0px;
+bottom:0px;
+left:0px;
+right:0px;
+font-size:95%;
+padding:10px 10px 10px 10px;
+border-radius:4px;
+overflow: auto;
+}
+#textBody
+{
+position:absolute;
+background: #FCFFF5;
+top:82px;
+bottom:8px;
+left:170px;
+right:50px;
+color: #000000;
+font-size:90%;
+box-shadow: 0.1em 0.1em 0.2em gray;
+padding:10px 10px 10px 10px;
+border-radius:4px;
+overflow: auto;
+}
+p
+{
+font-family:"Arial";
+font-size:15px;
+}
+a
+{
+font-family:"Arial";
+font-size:15px;
+color: #FCFFF5;
+}
+b
+{
+font-family:"Arial";
+font-size:15px;
+}
+h2
+{
+font-family:Arial;
+}
+a.bodyLink 
+{
+color: #6D6F6F;
+}
